@@ -18,4 +18,4 @@ git add .
 
 ```
 git commit -m "init" (инициализация)
-git commit -m "update.md" (обновление содержимого/количества файлов)
+git commit -m "update.md" (обновление содержимого/количества файлов .md)
