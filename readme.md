@@ -16,7 +16,8 @@ LICENSE: [MIT](./license.md)
 7. [Создание копии репозитория](./clone.md)
 8. [Связь локального и удаленного репозиториев](./remote.md)
 9. [Взаимодействие локального и удаленного репозиториев](./interaction.md)
-10.[Игнорирование файлов](./gitignore.md)
+10. [Игнорирование файлов](./gitignore.md)
+
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
