@@ -11,7 +11,7 @@ LICENSE: [MIT](./license.md)
 2. [Установка GIT](./download.md)  
 3. [Регистрация на GitHub](./regist.md)
 4. [Настройка GIT - git config](./config.md)
-5. []
+5. [Создание локального репозитория](./init.md)
 [git add](./add.md)
 
 
